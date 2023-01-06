@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/charity.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#header{
+    color: teal;
+    text-align: center;
+    font-size: 80px;
+}
+.foster-pictures{
+    width: 100px;
+    background-position: center;
+}
+#header-2{
+    color: dodgerblue;
+    text-align: center;
+    font-size: 50px;
+}
+#Another-picture{
+    background-repeat: no-repeat;
+    background-position: center;
+    background: fixed;
+}
+#link_for_foster_care{
+    color: hotpink;
+    text-align: center;
+    font-size: xx-large;
+    display: block;
+}
